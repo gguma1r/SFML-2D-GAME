@@ -1,0 +1,27 @@
+# Ignore Visual Studio files and folders
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.vscode/
+*.vsix
+*.ncb
+*.sdf
+*.opensdf
+*.log
+*.obj
+*.exe
+*.pdb
+*.ipch
+*.cache
+*.db
+
+# Ignore build and temp files
+Debug/
+Release/
+*.dll
+*.lib
+
+# Ignore SFML CMake or cache files if any
+CMakeFiles/
+CMakeCache.txt
