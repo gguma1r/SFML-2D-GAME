@@ -34,5 +34,3 @@ A fast-paced 2D zombie shooter game built using SFML in C++, packed into a singl
 ![Screenshot 2025-06-18 195318](https://github.com/user-attachments/assets/4950d8ac-71ab-46ed-9a59-869f86cd71fe)
 
 
-by
-uma1r
